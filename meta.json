@@ -1,0 +1,1 @@
+{"max_point_version": 241101, "name": "Pomodium - The best pomodoroTo-do-list add-on for Anki", "min_point_version": 1, "branch_index": 0, "mod": 1734572306, "disabled": false, "conflicts": [], "update_enabled": true, "config": {"work_duration": 25, "break_duration": 5, "long_break_duration": 15, "sessions_before_long_break": 4, "hide_during_review": false}}

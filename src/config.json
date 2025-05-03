@@ -1,0 +1,7 @@
+{
+    "work_duration": 25,
+    "break_duration": 5,
+    "long_break_duration": 15,
+    "sessions_before_long_break": 4,
+    "hide_during_review": true
+}
